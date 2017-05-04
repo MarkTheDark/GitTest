@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //testcomment2
         int a = 2;
+        int b = 3;
     }
 }
